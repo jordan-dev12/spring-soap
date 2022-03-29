@@ -1,0 +1,31 @@
+2022-03-28 18:06:39 ERROR PartecipanteServiceImpl:43 - org.springframework.dao.DataIntegrityViolationException: not-null property references a null or transient value : com.example.entities.Partecipante.email; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.example.entities.Partecipante.email errore nel salvatagio del partecipante
+2022-03-28 18:06:39 ERROR PartecipanteFacadeServiceImpl:36 - errore nel salvataggio del partecipante 
+2022-03-28 18:07:51 ERROR PartecipanteServiceImpl:43 - org.springframework.dao.DataIntegrityViolationException: not-null property references a null or transient value : com.example.entities.Partecipante.email; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.example.entities.Partecipante.email errore nel salvatagio del partecipante
+2022-03-28 18:07:51 ERROR PartecipanteFacadeServiceImpl:36 - errore nel salvataggio del partecipante 
+2022-03-28 18:09:25 ERROR PartecipanteServiceImpl:43 - org.springframework.dao.DataIntegrityViolationException: not-null property references a null or transient value : com.example.entities.Partecipante.email; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.example.entities.Partecipante.email errore nel salvatagio del partecipante
+2022-03-28 18:09:25 ERROR PartecipanteControllore:49 - com.example.exeption.PartException: errore nel salvatagio del partecipante
+2022-03-28 18:20:18 ERROR PartecipanteServiceImpl:43 - org.springframework.dao.DataIntegrityViolationException: not-null property references a null or transient value : com.example.entities.Partecipante.email; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.example.entities.Partecipante.email errore nel salvatagio del partecipante
+2022-03-28 18:20:18 ERROR PartecipanteFacadeServiceImpl:36 - errore nel salvataggio del partecipante 
+2022-03-28 18:20:18 ERROR PartecipanteControllore:49 - com.example.exeption.PartException: errore nel salvatagio del partecipante
+2022-03-28 18:21:15 ERROR PartecipanteServiceImpl:43 - org.springframework.dao.DataIntegrityViolationException: not-null property references a null or transient value : com.example.entities.Partecipante.email; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.example.entities.Partecipante.email errore nel salvatagio del partecipante
+2022-03-28 18:21:15 ERROR PartecipanteFacadeServiceImpl:36 - errore nel salvataggio del partecipante 
+2022-03-28 18:21:15 ERROR PartecipanteControllore:49 - com.example.exeption.PartException: errore nel salvatagio del partecipante
+2022-03-28 18:23:44 ERROR PartecipanteServiceImpl:43 - org.springframework.dao.DataIntegrityViolationException: not-null property references a null or transient value : com.example.entities.Partecipante.email; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.example.entities.Partecipante.email errore nel salvatagio del partecipante
+2022-03-28 18:23:44 ERROR PartecipanteFacadeServiceImpl:36 - errore nel salvataggio del partecipante 
+2022-03-28 18:23:44 ERROR PartecipanteControllore:49 - com.example.exeption.PartException: errore nel salvatagio del partecipante
+2022-03-28 18:25:51 ERROR PartecipanteServiceImpl:43 - org.springframework.dao.DataIntegrityViolationException: not-null property references a null or transient value : com.example.entities.Partecipante.email; nested exception is org.hibernate.PropertyValueException: not-null property references a null or transient value : com.example.entities.Partecipante.email errore nel salvatagio del partecipante
+2022-03-28 18:25:51 ERROR PartecipanteFacadeServiceImpl:36 - errore nel salvataggio del partecipante 
+2022-03-28 18:25:51 ERROR PartecipanteControllore:46 - com.example.exeption.PartException: errore nel salvatagio del partecipante
+2022-03-29 10:48:42 ERROR PartecipanteServiceImpl:37 - errore nel formattagio del ora
+2022-03-29 10:48:42 ERROR PartecipanteFacadeServiceImpl:34 - errore nel salvataggio del partecipante 
+2022-03-29 10:49:20 ERROR PartecipanteServiceImpl:37 - errore nel formattagio del ora
+2022-03-29 10:49:20 ERROR PartecipanteFacadeServiceImpl:34 - errore nel salvataggio del partecipante 
+2022-03-29 11:27:31 ERROR PartecipanteServiceImpl:37 - errore nel formattagio del ora
+2022-03-29 11:27:31 ERROR PartecipanteFacadeServiceImpl:36 - errore nel salvataggio del partecipante 
+2022-03-29 11:28:29 ERROR PartecipanteServiceImpl:37 - errore nel formattagio del ora
+2022-03-29 11:28:29 ERROR PartecipanteFacadeServiceImpl:42 - errore nel formattagio del ora
+2022-03-29 11:29:00 ERROR PartecipanteServiceImpl:55 - org.springframework.dao.DataIntegrityViolationException: could not execute statement; SQL [n/a]; constraint [UK_4ajhssp840uxdw0upl4fxeggf]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement errore nel salvatagio del partecipante
+2022-03-29 11:29:00 ERROR PartecipanteFacadeServiceImpl:36 - errore nel salvataggio del partecipante 
+2022-03-29 12:28:09 ERROR PartecipanteServiceImpl:61 - java.lang.NullPointerException: Cannot invoke "java.util.Set.add(Object)" because the return value of "com.example.entities.Partecipante.getRuoli()" is null errore nel salvatagio del partecipante
+2022-03-29 12:28:09 ERROR PartecipanteFacadeServiceImpl:36 - errore nel salvataggio del partecipante 
+2022-03-29 12:28:09 ERROR PartecipanteControllore:30 - com.example.exeption.PartException: errore nel salvatagio del partecipante

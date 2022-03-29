@@ -12,9 +12,9 @@
 
 
 	<!-- START SNIPPET: beans -->
-	<jaxws:endpoint id="ProvaWebService"
-		implementor="com.example.demo.facades.ProvaWebServiceImpl"
-		address="http://localhost:8080/ProvaWebService" />
+	<jaxws:endpoint id="PartecipanteFacadeService"
+		implementor="com.example.facades.PartecipanteFacadeServiceImpl"
+		address="http://localhost:8080/PartecipanteFacadeService" />
 </beans>
 <!-- END SNIPPET: <beans xmlns="http://www.springframework.org/schema/beans" 
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instanceProvaWebService" xmlns:jaxws="http://cxf.apache.org/jaxws" 

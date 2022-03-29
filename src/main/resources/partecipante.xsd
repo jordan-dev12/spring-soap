@@ -1,7 +1,7 @@
 
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
-           xmlns:tns="http://example.com/demo/model"
-           targetNamespace="http://example.com/demo/model"
+           xmlns:tns="http://example.com/demo/models"
+           targetNamespace="http://example.com/demo/models"
            xmlns:xmime="http://www.w3.org/2005/05/xmlmime"
            elementFormDefault="qualified">
 
